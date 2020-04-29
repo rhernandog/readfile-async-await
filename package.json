@@ -1,0 +1,20 @@
+{
+  "name": "data-read-async-await",
+  "version": "1.0.0",
+  "description": "Creates an async-await approach for using Node's file system read file method.",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "node",
+    "async",
+    "await"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rhernandog/readfile-async-await.git"
+  },
+  "author": {
+    "name": "Rodrigo Hernando"
+  },
+  "license": "MIT"
+}
